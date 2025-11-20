@@ -160,8 +160,8 @@ The methodology is proprietary (patent-pending, trade secret). You get the **res
 
 ## Current Availability
 
-**Q1 2025:** 2 slots remaining  
-**Q2 2025:** Booking now
+**Q4 2025:** 2 slots remaining  
+**Q1 2026:** Booking now
 
 Typical engagement: 30-45 days  
 Not available for ongoing advisory (engagements only)
@@ -223,8 +223,8 @@ I work with your existing infrastructure. No vendor lock-in.
 ## Contact
 
 **For engagement inquiries:**  
-Email: [YOUR_EMAIL]  
-Calendar: [CALENDLY_LINK]
+Email: [dragoman6002@gmail.com]  
+
 
 **Response time:** 24-48 hours
 
@@ -259,6 +259,6 @@ This repo contains:
 
 ---
 
-**Last Updated:** January 2025  
+**Last Updated:** November 2025  
 **Active Engagements:** [REDACTED]  
-**Next Available:** Q1 2025
+**Next Available:** Q4 2025
